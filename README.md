@@ -1,5 +1,7 @@
-[Open this notebook in Google Colab](https://colab.research.google.com/github/MuhammadAbbas01/Predict-Job-Salaries/blob/main/Untitled9.ipynb)
+*Access the notebook:**
 
+- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadAbbas01/Predict-Job-Salaries/blob/main/Untitled9.ipynb)
+- [View this notebook in nbviewer](https://nbviewer.org/github/MuhammadAbbas01/Predict-Job-Salaries/blob/main/Untitled9.ipynb)
 
 
 # Predicting Job Salaries Based on Experience, Employment Type, and Geographic Data
