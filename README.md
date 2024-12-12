@@ -44,3 +44,9 @@ For future iterations, consider incorporating additional data sources and more s
 
 ### Author
 M Abbas
+
+## 📢 Request for Feedback
+I welcome feedback, suggestions, and reviews for this project.  
+If you find any issues or have suggestions for improvement, feel free to open an issue!
+
+- 🐛 **Open an Issue**: [Click here to report a problem](https://github.com/MuhammadAbbas01/Predict-Child-Mortality/issues)               
